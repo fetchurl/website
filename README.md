@@ -11,7 +11,7 @@ Live: **https://fetchurl.github.io**
 - Markdown under [`docs/`](./docs/) (rendered at `/docs/*`)
 - Brand accent from the org avatar blue (`#0050d0` / OKLCH primary)
 - Flat UI (`--depth: 0`) with light/dark theme chooser (`fetchurl` / `fetchurl-dark`)
-- [`public/llms.txt`](./public/llms.txt) for LLM-oriented project summary
+- `llms.txt` / `llms-full.txt` / `llms-small.txt` generated at build by `@4hse/astro-llms-txt`
 
 ## Develop
 
